@@ -1,0 +1,123 @@
+customerNumber,customerName,contactName,city,country,salesRepEmployeeNumber,creditLimit,last_order_date,frequency,monetary,recency_days,is_active,r_score,f_score,m_score,rfm_score,segment
+103,Atelier graphique,Carine Schmitt,Nantes,France,1370.0,21000.0,2004-11-25,3,22314.36,188,True,3.0,3.0,1.0,331,Loyal Customers
+112,Signal Gift Stores,Jean King,Las Vegas,USA,1166.0,71800.0,2004-11-29,3,80180.98,184,True,3.0,3.0,3.0,333,Champions
+114,"Australian Collectors, Co.",Peter Ferguson,Melbourne,Australia,1611.0,117300.0,2004-11-29,5,180585.07,184,True,3.0,4.0,4.0,344,Champions
+119,La Rochelle Gifts,Janine Labrune,Nantes,France,1370.0,118200.0,2005-02-03,3,116949.68,118,True,3.0,3.0,4.0,334,Champions
+121,Baane Mini Imports,Jonas Bergulfsen,Stavern,Norway,1504.0,81700.0,2004-11-05,4,104224.79,208,True,2.0,4.0,4.0,244,High Value At Risk
+124,Mini Gifts Distributors Ltd.,Susan Nelson,San Rafael,USA,1165.0,210500.0,2005-03-23,16,584188.24,70,True,4.0,4.0,4.0,444,Champions
+125,Havel & Zbyszek Co,Zbyszek Piestrzeniewicz,Warszawa,Poland,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+128,"Blauer See Auto, Co.",Roland Keitel,Frankfurt,Germany,1504.0,59700.0,2004-11-05,4,75937.76,208,True,2.0,4.0,2.0,242,Needs Attention
+129,Mini Wheels Co.,Julie Murphy,San Francisco,USA,1165.0,64600.0,2004-11-18,3,66710.56,195,True,3.0,3.0,2.0,332,Loyal Customers
+131,Land of Toys Inc.,Kwai Lee,NYC,USA,1323.0,114900.0,2004-11-15,3,107639.94,198,True,2.0,3.0,4.0,234,High Value At Risk
+141,Euro+ Shopping Channel,Diego Freyre,Madrid,Spain,1370.0,227600.0,2005-05-03,22,668770.46,29,True,4.0,4.0,4.0,444,Champions
+144,"Volvo Model Replicas, Co",Christina Berglund,LuleÃ¥,Sweden,1504.0,53100.0,2004-11-09,3,43680.65,204,True,2.0,3.0,1.0,231,Needs Attention
+145,Danish Wholesale Imports,Jytte Petersen,Kobenhavn,Denmark,1401.0,83400.0,2004-06-08,3,86881.64,358,True,1.0,3.0,3.0,133,High Value At Risk
+146,"Saveley & Henriot, Co.",Mary Saveley,Lyon,France,1337.0,123900.0,2004-03-02,3,130305.35,456,True,1.0,3.0,4.0,134,High Value At Risk
+148,"Dragon Souveniers, Ltd.",Eric Natividad,Singapore,Singapore,1621.0,103800.0,2005-03-02,5,156251.03,91,True,4.0,4.0,4.0,444,Champions
+151,Muscle Machine Inc,Jeff Young,NYC,USA,1286.0,138500.0,2004-12-01,4,177913.95,182,True,3.0,4.0,4.0,344,Champions
+157,Diecast Classics Inc.,Kelvin Leong,Allentown,USA,1216.0,100600.0,2004-11-02,3,98509.25,211,True,2.0,3.0,3.0,233,High Value At Risk
+161,Technics Stores Inc.,Juri Hashimoto,Burlingame,USA,1165.0,84600.0,2005-01-05,4,104545.22,147,True,3.0,4.0,4.0,344,Champions
+166,Handji Gifts& Co,Wendy Victorino,Singapore,Singapore,1612.0,97900.0,2005-04-23,4,107746.75,39,True,4.0,4.0,4.0,444,Champions
+167,Herkku Gifts,Veysel Oeztan,Bergen,Norway,1504.0,96800.0,2004-09-03,3,97562.47,271,True,1.0,3.0,3.0,133,High Value At Risk
+168,American Souvenirs Inc,Keith Franco,New Haven,USA,1286.0,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+169,Porto Imports Co.,Isabel de Castro,Lisboa,Portugal,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+171,Daedalus Designs Imports,Martine RancÃ©,Lille,France,1370.0,82900.0,2004-02-21,2,61781.7,466,True,1.0,2.0,2.0,122,At Risk
+172,"La Corne D'abondance, Co.",Marie Bertrand,Paris,France,1337.0,84300.0,2004-11-20,3,86553.52,193,True,3.0,3.0,3.0,333,Champions
+173,Cambridge Collectables Co.,Jerry Tseng,Cambridge,USA,1188.0,43400.0,2004-05-08,2,32198.69,389,True,1.0,2.0,1.0,121,At Risk
+175,Gift Depot Inc.,Julie King,Bridgewater,USA,1323.0,84300.0,2005-05-05,3,95424.63,27,True,4.0,3.0,3.0,433,Champions
+177,Osaka Souveniers Co.,Mory Kentary,Kita-ku,Japan,1621.0,81200.0,2004-04-13,2,62361.22,414,True,1.0,2.0,2.0,122,At Risk
+181,Vitachrome Inc.,Michael Frick,NYC,USA,1286.0,76400.0,2004-11-05,3,72497.64,208,True,2.0,3.0,2.0,232,Needs Attention
+186,"Toys of Finland, Co.",Matti Karttunen,Helsinki,Finland,1501.0,96500.0,2005-02-09,3,95546.46,112,True,3.0,3.0,3.0,333,Champions
+187,"AV Stores, Co.",Rachel Ashworth,Manchester,UK,1501.0,136800.0,2004-11-17,3,148410.09,196,True,3.0,3.0,4.0,334,Champions
+189,"Clover Collections, Co.",Dean Cassidy,Dublin,Ireland,1504.0,69400.0,2004-09-16,2,49898.27,258,True,2.0,2.0,1.0,221,Needs Attention
+198,Auto-Moto Classics Inc.,Leslie Taylor,Brickhaven,USA,1216.0,23000.0,2004-12-03,3,21554.26,180,True,3.0,3.0,1.0,331,Loyal Customers
+201,"UK Collectables, Ltd.",Elizabeth Devon,Liverpool,UK,1501.0,92700.0,2005-04-08,2,61167.18,54,True,4.0,2.0,2.0,422,Loyal Customers
+202,Canadian Gift Exchange Network,Yoshi Tamuri,Vancouver,Canada,1323.0,90300.0,2004-10-22,2,70122.19,222,True,2.0,2.0,2.0,222,Needs Attention
+204,Online Mini Collectables,Miguel Barajas,Brickhaven,USA,1188.0,68700.0,2004-09-10,2,55577.26,264,True,2.0,2.0,1.0,221,Needs Attention
+205,Toys4GrownUps.com,Julie Young,Pasadena,USA,1166.0,90700.0,2003-11-18,2,54222.7,561,True,1.0,2.0,1.0,121,At Risk
+206,"Asian Shopping Network, Co",Brydey Walker,Singapore,Singapore,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+209,Mini Caravy,FrÃ©dÃ©rique Citeaux,Strasbourg,France,1370.0,53800.0,2005-04-14,3,75859.32,48,True,4.0,3.0,2.0,432,Loyal Customers
+211,"King Kong Collectables, Co.",Mike Gao,Central Hong Kong,Hong Kong,1621.0,58600.0,2003-12-01,2,45480.79,548,True,1.0,2.0,1.0,121,At Risk
+216,Enaco Distributors,Eduardo Saavedra,Barcelona,Spain,1702.0,60300.0,2004-11-24,3,68520.47,189,True,3.0,3.0,2.0,332,Loyal Customers
+219,Boards & Toys Co.,Mary Young,Glendale,USA,1166.0,11000.0,2005-02-08,2,7918.6,113,True,3.0,2.0,1.0,321,Loyal Customers
+223,NatÃ¼rlich Autos,Horst Kloss,Cunewalde,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+227,Heintze Collectables,Palle Ibsen,Ã…rhus,Denmark,1401.0,120800.0,2004-10-22,2,89909.8,222,True,2.0,2.0,3.0,223,High Value At Risk
+233,QuÃ©bec Home Shopping Network,Jean FresniÃ¨re,MontrÃ©al,Canada,1286.0,48700.0,2005-05-01,3,68977.67,31,True,4.0,3.0,2.0,432,Loyal Customers
+237,ANG Resellers,Alejandra Camino,Madrid,Spain,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+239,Collectable Mini Designs Co.,Valarie Thompson,San Diego,USA,1166.0,105000.0,2004-02-26,2,80375.24,461,True,1.0,2.0,3.0,123,High Value At Risk
+240,giftsbymail.co.uk,Helen Bennett,Cowes,UK,1501.0,93900.0,2004-11-01,2,71783.75,212,True,2.0,2.0,2.0,222,Needs Attention
+242,Alpha Cognac,Annette Roulet,Toulouse,France,1370.0,61100.0,2005-03-28,3,60483.36,65,True,4.0,3.0,2.0,432,Loyal Customers
+247,Messner Shopping Network,Renate Messner,Frankfurt,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+249,Amica Models & Co.,Paolo Accorti,Torino,Italy,1401.0,113000.0,2004-09-09,2,82223.23,265,True,1.0,2.0,3.0,123,High Value At Risk
+250,Lyon Souveniers,Daniel Da Silva,Paris,France,1337.0,68100.0,2005-03-17,3,67659.19,76,True,4.0,3.0,2.0,432,Loyal Customers
+256,Auto AssociÃ©s & Cie.,Daniel Tonini,Versailles,France,1370.0,77900.0,2004-10-11,2,58876.41,233,True,2.0,2.0,2.0,222,Needs Attention
+259,"Toms SpezialitÃ¤ten, Ltd",Henriette Pfalzheim,KÃ¶ln,Germany,1504.0,120400.0,2004-10-16,2,89223.14,228,True,2.0,2.0,3.0,223,High Value At Risk
+260,"Royal Canadian Collectables, Ltd.",Elizabeth Lincoln,Tsawassen,Canada,1323.0,89600.0,2004-08-20,2,66812.0,285,True,1.0,2.0,2.0,122,At Risk
+273,"Franken Gifts, Co",Peter Franken,MÃ¼nchen,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+276,"Anna's Decorations, Ltd",Anna O'Hara,North Sydney,Australia,1611.0,107800.0,2005-03-09,4,137034.22,84,True,4.0,4.0,4.0,444,Champions
+278,Rovelli Gifts,Giovanni Rovelli,Bergamo,Italy,1401.0,119600.0,2004-11-12,3,127529.69,201,True,2.0,3.0,4.0,234,High Value At Risk
+282,Souveniers And Things Co.,Adrian Huxley,Chatswood,Australia,1611.0,93300.0,2004-12-17,3,91655.61,166,True,3.0,3.0,3.0,333,Champions
+286,Marta's Replicas Co.,Marta Hernandez,Cambridge,USA,1216.0,123700.0,2004-10-13,2,90545.37,231,True,2.0,2.0,3.0,223,High Value At Risk
+293,BG&E Collectables,Ed Harrison,Fribourg,Switzerland,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+298,"Vida Sport, Ltd",Mihael Holz,GenÃ¨ve,Switzerland,1702.0,141300.0,2004-08-30,2,108777.92,275,True,1.0,2.0,4.0,124,High Value At Risk
+299,"Norway Gifts By Mail, Co.",Jan Klaeboe,Oslo,Norway,1504.0,95100.0,2004-08-21,2,69059.04,284,True,1.0,2.0,2.0,122,At Risk
+303,Schuyler Imports,Bradley Schuyler,Amsterdam,Netherlands,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+307,Der Hund Imports,Mel Andersen,Berlin,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+311,"Oulu Toy Supplies, Inc.",Pirkko Koskitalo,Oulu,Finland,1501.0,90500.0,2005-01-31,3,95706.15,121,True,3.0,3.0,3.0,333,Champions
+314,Petit Auto,Catherine Dewey,Bruxelles,Belgium,1401.0,79900.0,2004-07-21,2,62253.85,315,True,1.0,2.0,2.0,122,At Risk
+319,Mini Classics,Steve Frick,White Plains,USA,1323.0,102700.0,2004-10-15,2,78432.16,229,True,2.0,2.0,3.0,223,High Value At Risk
+320,Mini Creations Ltd.,Wing Huang,New Bedford,USA,1188.0,94500.0,2005-01-07,3,101872.52,145,True,3.0,3.0,3.0,333,Champions
+321,Corporate Gift Ideas Co.,Julie Brown,San Francisco,USA,1165.0,105000.0,2005-02-23,4,132340.78,98,True,4.0,4.0,4.0,444,Champions
+323,"Down Under Souveniers, Inc",Mike Graham,Auckland,New Zealand,1612.0,88000.0,2005-04-08,5,154622.08,54,True,4.0,4.0,4.0,444,Champions
+324,"Stylish Desk Decors, Co.",Ann Brown,London,UK,1501.0,77000.0,2004-12-03,3,80556.73,180,True,3.0,3.0,3.0,333,Champions
+328,Tekni Collectables Inc.,William Brown,Newark,USA,1323.0,43000.0,2004-05-18,2,38281.51,379,True,1.0,2.0,1.0,121,At Risk
+333,"Australian Gift Network, Co",Ben Calaghan,South Brisbane,Australia,1611.0,51600.0,2005-02-02,3,55190.16,119,True,3.0,3.0,1.0,331,Loyal Customers
+334,Suominen Souveniers,Kalle Suominen,Espoo,Finland,1501.0,98800.0,2005-01-06,3,103896.74,146,True,3.0,3.0,4.0,334,Champions
+335,"Cramer SpezialitÃ¤ten, Ltd",Philip Cramer,Brandenburg,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+339,"Classic Gift Ideas, Inc",Francisca Cervantes,Philadelphia,USA,1188.0,81100.0,2004-10-14,2,57939.34,230,True,2.0,2.0,2.0,222,Needs Attention
+344,CAF Imports,Jesus Fernandez,Madrid,Spain,1702.0,59600.0,2004-03-19,2,46751.14,439,True,1.0,2.0,1.0,121,At Risk
+347,"Men 'R' US Retailers, Ltd.",Brian Chandler,Los Angeles,USA,1166.0,57700.0,2004-01-09,2,41506.19,509,True,1.0,2.0,1.0,121,At Risk
+348,"Asian Treasures, Inc.",Patricia McKenna,Cork,Ireland,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+350,Marseille Mini Autos,Laurence Lebihan,Marseille,France,1337.0,65000.0,2005-01-06,3,71547.53,146,True,3.0,3.0,2.0,332,Loyal Customers
+353,Reims Collectables,Paul Henriot,Reims,France,1337.0,81100.0,2005-03-30,5,126983.19,63,True,4.0,4.0,4.0,444,Champions
+356,"SAR Distributors, Co",Armand Kuger,Hatfield,South Africa,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+357,GiftsForHim.com,Wales MacKinlay,Auckland,New Zealand,1612.0,77700.0,2005-04-29,2,56662.38,33,True,4.0,2.0,2.0,422,Loyal Customers
+361,Kommission Auto,Karin Josephs,MÃ¼nster,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+362,Gifts4AllAges.com,Juri Yoshido,Boston,USA,1216.0,41900.0,2004-09-10,2,33533.47,264,True,2.0,2.0,1.0,221,Needs Attention
+363,Online Diecast Creations Co.,Dorothy Young,Nashua,USA,1216.0,114200.0,2004-11-04,3,116449.29,209,True,2.0,3.0,4.0,234,High Value At Risk
+369,"Lisboa Souveniers, Inc",Lino Rodriguez,Lisboa,Portugal,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+376,Precious Collectables,Braun Urs,Bern,Switzerland,1702.0,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+379,Collectables For Less Inc.,Allen Nelson,Brickhaven,USA,1188.0,70700.0,2005-01-20,3,73533.65,132,True,3.0,3.0,2.0,332,Loyal Customers
+381,Royale Belge,Pascale Cartrain,Charleroi,Belgium,1401.0,23500.0,2005-01-10,4,29217.18,142,True,3.0,4.0,1.0,341,Loyal Customers
+382,Salzburg Collectables,Georg Pipps,Salzburg,Austria,1401.0,71700.0,2005-05-17,4,137480.07,15,True,4.0,4.0,4.0,444,Champions
+385,Cruz & Sons Co.,Arnold Cruz,Makati City,Philippines,1621.0,81500.0,2004-11-16,3,87468.3,197,True,2.0,3.0,3.0,233,High Value At Risk
+386,L'ordine Souveniers,Maurizio Moroni,Reggio Emilia,Italy,1401.0,121400.0,2005-05-10,3,125505.57,22,True,4.0,3.0,4.0,434,Champions
+398,"Tokyo Collectables, Ltd",Akiko Shimamura,Minato-ku,Japan,1621.0,94400.0,2005-04-22,4,105548.73,40,True,4.0,4.0,4.0,444,Champions
+406,Auto Canal+ Petit,Dominique Perrier,Paris,France,1337.0,95000.0,2005-04-07,3,86436.97,55,True,4.0,3.0,3.0,433,Champions
+409,Stuttgart Collectable Exchange,Rita MÃ¼ller,Stuttgart,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+412,"Extreme Desk Decorations, Ltd",Sarah McRoy,Wellington,New Zealand,1612.0,86800.0,2005-05-16,3,90332.38,16,True,4.0,3.0,3.0,433,Champions
+415,"Bavarian Collectables Imports, Co.",Michael Donnermeyer,Munich,Germany,1504.0,77000.0,2004-09-15,1,31310.09,259,True,2.0,1.0,1.0,211,Needs Attention
+424,Classic Legends Inc.,Maria Hernandez,NYC,USA,1286.0,67500.0,2004-11-21,3,69214.33,192,True,3.0,3.0,2.0,332,Loyal Customers
+443,"Feuer Online Stores, Inc",Alexander Feuer,Leipzig,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+447,Gift Ideas Corp.,Dan Lewis,Glendale,USA,1323.0,49700.0,2004-12-04,3,49967.78,179,True,3.0,3.0,1.0,331,Loyal Customers
+448,Scandinavian Gift Ideas,Martha Larsson,BrÃ¤cke,Sweden,1504.0,116400.0,2005-03-03,2,76776.44,90,True,4.0,2.0,3.0,423,Loyal Customers
+450,The Sharp Gifts Warehouse,Sue Frick,San Jose,USA,1165.0,77600.0,2005-04-01,3,91306.72,61,True,4.0,3.0,3.0,433,Champions
+452,Mini Auto Werke,Roland Mendel,Graz,Austria,1401.0,45300.0,2005-03-10,2,23938.09,83,True,4.0,2.0,1.0,421,Loyal Customers
+455,Super Scale Inc.,Leslie Murphy,New Haven,USA,1286.0,95400.0,2004-05-04,2,70378.65,393,True,1.0,2.0,2.0,122,At Risk
+456,Microscale Inc.,Yu Choi,NYC,USA,1286.0,39800.0,2004-11-03,2,29230.43,210,True,2.0,2.0,1.0,221,Needs Attention
+458,"Corrida Auto Replicas, Ltd",MartÃ­n Sommer,Madrid,Spain,1702.0,104600.0,2004-11-01,3,112440.09,212,True,2.0,3.0,4.0,234,High Value At Risk
+459,Warburg Exchange,Sven Ottlieb,Aachen,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+462,FunGiftIdeas.com,Violeta Benitez,New Bedford,USA,1216.0,85800.0,2005-03-03,3,88627.49,90,True,4.0,3.0,3.0,433,Champions
+465,"Anton Designs, Ltd.",Carmen Anton,Madrid,Spain,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+471,"Australian Collectables, Ltd",Sean Clenahan,Glen Waverly,Australia,1611.0,60300.0,2004-07-02,2,44920.76,334,True,1.0,2.0,1.0,121,At Risk
+473,Frau da Collezione,Franco Ricotti,Milan,Italy,1401.0,34800.0,2004-02-09,2,25358.32,478,True,1.0,2.0,1.0,121,At Risk
+475,West Coast Collectables Co.,Steve Thompson,Burbank,USA,1166.0,55400.0,2004-01-29,2,43748.72,489,True,1.0,2.0,1.0,121,At Risk
+477,Mit VergnÃ¼gen & Co.,Hanna Moos,Mannheim,Germany,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+480,"Kremlin Collectables, Co.",Alexander Semenov,Saint Petersburg,Russia,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+481,"Raanan Stores, Inc","Raanan Altagar,G M",Herzlia,Israel,,0.0,,0,0.0,999,False,,,,000,Prospect / Inactive
+484,"Iberia Gift Imports, Corp.",JosÃ© Pedro Roel,Sevilla,Spain,1702.0,65700.0,2004-10-06,2,50987.85,238,True,2.0,2.0,1.0,221,Needs Attention
+486,Motor Mint Distributors Inc.,Rosa Salazar,Philadelphia,USA,1323.0,72600.0,2004-11-17,3,77726.59,196,True,3.0,3.0,3.0,333,Champions
+487,Signal Collectibles Ltd.,Sue Taylor,Brisbane,USA,1165.0,60300.0,2004-02-10,2,42570.37,477,True,1.0,2.0,1.0,121,At Risk
+489,"Double Decker Gift Stores, Ltd",Thomas Smith,London,UK,1501.0,43300.0,2004-01-22,2,29586.15,496,True,1.0,2.0,1.0,121,At Risk
+495,Diecast Collectables,Valarie Franco,Boston,USA,1188.0,85100.0,2004-04-26,2,65541.74,401,True,1.0,2.0,2.0,122,At Risk
+496,Kelly's Gift Shop,Tony Snowden,Auckland,New Zealand,1612.0,110000.0,2005-04-01,3,114497.19,61,True,4.0,3.0,4.0,434,Champions
